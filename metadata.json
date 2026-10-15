@@ -1,0 +1,6 @@
+{
+  "name": "Photobox Studio",
+  "description": "Interactive photobox with vintage & modern filters, custom frames, multi-shot countdown, retake tools, print output, and QR code sharing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
